@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1523998343 source:c:\users\aluno.campusbambuilab\desktop\avl\avl\avl.c
+	"avl.h"
+
+1523997915 c:\users\aluno.campusbambuilab\desktop\avl\avl\avl.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1523997739 source:c:\users\aluno.campusbambuilab\desktop\avl\avl\main.c
+	<stdio.h>
+	<stdlib.h>
+	"avl.h"
+
+1524082607 source:u:\avl\avl\main.c
+	"avl.h"
+	<stdio.h>
+	<stdlib.h>
+
+1524082582 u:\avl\avl\avl.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1524082601 source:u:\avl\avl\avl.c
+	"avl.h"
+
+1524082608 source:e:\onedrive\ifmg-desktop-all7jb1\perildo 5\paa\avl\avl laerte v2\avl\main.c
+	"avl.h"
+	<stdio.h>
+	<stdlib.h>
+
+1524082584 e:\onedrive\ifmg-desktop-all7jb1\perildo 5\paa\avl\avl laerte v2\avl\avl.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1526294252 source:e:\onedrive\ifmg-desktop-all7jb1\perildo 5\paa\avl\avl laerte v2\avl\avl.c
+	"avl.h"
+
+1526755109 source:e:\onedrive\ifmg-desktop-all7jb1\perildo 5\paa\avl\avl eu\avl\main.c
+	"avl.h"
+	<stdio.h>
+	<stdlib.h>
+
+1526750951 e:\onedrive\ifmg-desktop-all7jb1\perildo 5\paa\avl\avl eu\avl\avl.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1526754956 source:e:\onedrive\ifmg-desktop-all7jb1\perildo 5\paa\avl\avl eu\avl\avl.c
+	"avl.h"
+
+1526755664 source:e:\onedrive\ifmg-desktop-all7jb1\perildo 5\paa\avl\avl eu\avl v1\avl.c
+	"avl.h"
+
+1526750951 e:\onedrive\ifmg-desktop-all7jb1\perildo 5\paa\avl\avl eu\avl v1\avl.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1526755109 source:e:\onedrive\ifmg-desktop-all7jb1\perildo 5\paa\avl\avl eu\avl v1\main.c
+	"avl.h"
+	<stdio.h>
+	<stdlib.h>
+
+1526905961 source:e:\onedrive\ifmg-desktop-all7jb1\perildo 5\paa\avl\avl eu\avl v3\avl.c
+	"avl.h"
+
+1526901354 e:\onedrive\ifmg-desktop-all7jb1\perildo 5\paa\avl\avl eu\avl v3\avl.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1526901354 source:e:\onedrive\ifmg-desktop-all7jb1\perildo 5\paa\avl\avl eu\avl v3\main.c
+	"avl.h"
+	<stdio.h>
+	<stdlib.h>
+
+1527083384 source:d:\onedrive\ifmg-desktop-all7jb1\perildo 5\paa\avl\avl eu\avl v3\main.c
+	"avl.h"
+	<stdio.h>
+	<stdlib.h>
+
+1526901354 d:\onedrive\ifmg-desktop-all7jb1\perildo 5\paa\avl\avl eu\avl v3\avl.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1527083996 source:d:\onedrive\ifmg-desktop-all7jb1\perildo 5\paa\avl\avl eu\avl v3\avl.c
+	"avl.h"
+
+1527126015 source:c:\users\leandro\desktop\avl generica\avl.c
+	"avl.h"
+
+1526901354 c:\users\leandro\desktop\avl generica\avl.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1527083384 source:c:\users\leandro\desktop\avl generica\main.c
+	"avl.h"
+	<stdio.h>
+	<stdlib.h>
+
